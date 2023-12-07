@@ -3,6 +3,8 @@
 .holder{
 	display:flex;
 	justify-content:space-evenly;
+	flex-wrap:nowrap;
+	align-items:center;
 }
 .holder>div{
 	width:100px;
