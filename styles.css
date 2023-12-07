@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.box{
+	display:flex;
+	justify-content:space-evenly;
+}
+.box>div{
+	width:100px;
+	height:100px;
+	background-color:red;
+	margin:10px;
+	
+}
